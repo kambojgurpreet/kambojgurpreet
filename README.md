@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Gurpreet Kamboj!
 
-I’m a **GenAI expert** and **Senior Full Stack Developer** with 5+ years of experience building scalable, high-quality products. My expertise spans modern web frameworks, cloud platforms, and AI-driven applications. I thrive in collaborative, test-driven environments and love solving complex problems with elegant solutions.
+I’m a **Senior Full Stack Developer** with 5+ years of experience building scalable, high-quality products. My expertise spans modern web frameworks, cloud platforms, and AI-driven applications. I thrive in collaborative, test-driven environments and love solving complex problems with elegant solutions.
 
 ---
 
